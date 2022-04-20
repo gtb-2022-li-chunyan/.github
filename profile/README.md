@@ -2,15 +2,15 @@
 
 You may want to know who I am.
 This is me,hi hi.
-![Image text](https://github.com/gtb-2022-li-chunyan/.github/blob/master/profile/image/me.jpg)
+![me](image/me.jpg)
 
 And me😊
-![Image text](https://github.com/gtb-2022-li-chunyan/.github/blob/master/profile/image/me2.jpg)
+![me2](image/me2.jpg)
 
 And this is my hometown-Korla~~
-![Image text](https://github.com/gtb-2022-li-chunyan/.github/blob/master/profile/image/hometown.jpg)
+![hometown](image/hometown.jpg)
 
 I'm glad to join the thoughtworks!!
-![Image text](https://github.com/gtb-2022-li-chunyan/.github/blob/master/profile/image/happy.jpg)
+![happy](image/happy.jpg)
 
 Hope we can have a lot of fun in the future<font color=red>❤❤</font>
