@@ -14,8 +14,8 @@ And this is my hometown-Korla~~
 
 <img src="image/hometown.jpg" alt="hometown.jpg" width="40%" />
 
-I'm glad to join the thoughtworks!!
-
 <img src="image/happy.jpg" alt="happy.jpg" width="50%" />
+
+I'm glad to join the thoughtworks!!
 
 Hope we can have a lot of fun in the future<font color=red>❤❤</font>
